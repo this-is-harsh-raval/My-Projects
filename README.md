@@ -7,19 +7,25 @@ A PID (Proportional-Integral-Derivative) controller is a control loop feedback m
 **How Does a PID Controller Work?**
 
 **Proportional (P) term:** Produces an output signal proportional to the current error.
+
 **Integral (I) term**: Accumulates the error over time and produces an output signal based on the accumulated error. This helps to eliminate steady-state error.
+
 **Derivative (D) term:** Produces an output signal based on the rate of change of the error. This helps to anticipate future errors and improve system response.
 
 **Applications of PID Controllers**
 
 Temperature control
+
 Motor speed control
+
 Pressure control
 
 **Advantages of PID Controllers**
 
 Simplicity
+
 Flexibility
+
 Robustness
 
 **Disadvantages of PID Controllers**

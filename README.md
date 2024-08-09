@@ -22,9 +22,9 @@ Pressure control
 
 **Advantages of PID Controllers**
 
-Simplicity
+Simplicity, 
 
-Flexibility
+Flexibility, 
 
 Robustness
 

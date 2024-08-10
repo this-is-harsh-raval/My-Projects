@@ -7,7 +7,9 @@ A PID (Proportional-Integral-Derivative) controller is a control loop feedback m
 **How does a PID Controller Work?**
 
 **Proportional (P) term**: Produces an output signal proportional to the current error.
+
 **Integral (I) term**: Accumulates the error over time and produces an output signal based on the accumulated error. This helps to eliminate steady-state error.
+
 **Derivative (D) term**: Produces an output signal based on the rate of change of the error. This helps to anticipate future errors and improve system response.
 
 **Applications of PID Controllers**
@@ -33,15 +35,22 @@ Sensitivity to noise
 **PID Tuning**
 
 **Optimal Performance**: Proper tuning of PID controller parameters (Kp, Ki, Kd) ensures the system responds efficiently to disturbances and setpoint changes.
+
 **Stability**: Incorrect tuning can lead to instability, oscillations, or poor performance.
+
 **Efficiency**: Well-tuned PID controllers can optimize system performance, reducing energy consumption and costs.   
+
 **Safety**: In critical systems, precise control is essential for safety.
 
 **Simulation**
 **System Understanding**: Simulation helps understand the behavior of the system under different conditions.
+
 **Controller Design:** It allows for testing different control strategies before implementation.   
+
 **Parameter Optimization:** Simulation aids in finding optimal PID parameters.   
+
 **Risk Mitigation**: Testing controller performance in a simulated environment reduces the risk of unexpected behavior in real-world conditions.
+
 **Cost-Effectiveness**: Simulating various scenarios is often more cost-effective than physical experimentation.
 
 By combining PID tuning and simulation, engineers can design and implement robust control systems that meet desired performance objectives.

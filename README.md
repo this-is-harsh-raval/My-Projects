@@ -15,19 +15,29 @@ A PID (Proportional-Integral-Derivative) controller is a control loop feedback m
 **Applications of PID Controllers**
 
 Temperature control
+
 Motor speed control
+
 Pressure control
+
 Flow control
+
 Level control
 
 **Advantages of PID Controllers**
+
 Simplicity
+
 Flexibility
+
 Robustness
 
 **Disadvantages of PID Controllers**
+
 Tuning complexity
+
 Performance limitations
+
 Sensitivity to noise
 
 **Why PID Tuning and Simulation is required?**
@@ -43,6 +53,7 @@ Sensitivity to noise
 **Safety**: In critical systems, precise control is essential for safety.
 
 **Simulation**
+
 **System Understanding**: Simulation helps understand the behavior of the system under different conditions.
 
 **Controller Design:** It allows for testing different control strategies before implementation.   

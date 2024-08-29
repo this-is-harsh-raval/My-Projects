@@ -12,6 +12,12 @@ A PID (Proportional-Integral-Derivative) controller is a control loop feedback m
 
 **Derivative (D) term**: Produces an output signal based on the rate of change of the error. This helps to anticipate future errors and improve system response.
 
+
+![PID block diagram 2](https://github.com/user-attachments/assets/ef843b78-594b-4867-a67f-3fb3660d95ef)  
+
+
+
+
 **Applications of PID Controllers**
 
 Temperature control
@@ -51,6 +57,11 @@ Sensitivity to noise
 **Efficiency**: Well-tuned PID controllers can optimize system performance, reducing energy consumption and costs.   
 
 **Safety**: In critical systems, precise control is essential for safety.
+
+
+![PID controller graph 1](https://github.com/user-attachments/assets/230ce533-49d8-487f-851e-138843f5b45b)    
+
+
 
 **Simulation**
 
